@@ -8,3 +8,10 @@ The lab was intended to provision an instance within a cloud environment for pra
 <h2>EC2 Provision Steps </h2> 
 As previously mentioned, this lab could not be completed without the creation of an AWS account. Upon creation of the account, the instance I will be using to create this Windows environment is EC2. I wanted to ensure that the environment would run smoothly, so I increased the instance type from the default. 
 
+![image alt](https://github.com/RichardJ7/EC2-Windows-Instance/blob/a999b1691bd0d4970bfffc245c80e1e9663dedc2/EC2%20Lab%204.png)
+
+![image alt](https://github.com/RichardJ7/EC2-Windows-Instance/blob/a999b1691bd0d4970bfffc245c80e1e9663dedc2/EC2%20Lab%203.png)
+
+![image alt](https://github.com/RichardJ7/EC2-Windows-Instance/blob/a999b1691bd0d4970bfffc245c80e1e9663dedc2/EC2%20Lab%202.png)
+
+![image alt](https://github.com/RichardJ7/EC2-Windows-Instance/blob/a999b1691bd0d4970bfffc245c80e1e9663dedc2/EC2%20Lab.png)
